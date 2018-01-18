@@ -1,20 +1,4 @@
 {
-  "reportId": [
-    { "id": 56, "title": "Post 1" },
-    { "id": 101, "title": "Post 2" },
-    { "id": 120, "title": "Post 3" },
-    { "id": 500, "title": "Post 3" },
-    { "id": 501, "title": "Post 3" },
-    { "id": 502, "title": "Post 3" }
-  ],
-  "dueDate": [
-    { "id": 1, "fecha": "10-01-2018", "hora": "12:15" },
-    { "id": 2, "fecha": "14-01-2018", "hora": "12:15" },
-    { "id": 3, "fecha": "18-01-2018", "hora": "12:15" },
-    { "id": 4, "fecha": "22-01-2018", "hora": "12:15" },
-    { "id": 5, "fecha": "25-01-2018", "hora": "12:15" },
-    { "id": 6, "fecha": "27-01-2018", "hora": "12:15" }
-  ],
   "profile": {
     "name": "furanshi"
   }
